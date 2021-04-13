@@ -30,7 +30,7 @@
   "dependencies": {
     "coffeescript": "2.2.4",
     "excel": "~1.0.1",
-    "libxmljs2": "~0.21.6",
+    "libxmljs2": "^0.21.7",
     "node-promise": "~0.5.14",
     "underscore": "~1.9.1",
     "unzip2": "~0.2.5"
