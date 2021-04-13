@@ -33,7 +33,7 @@
     "libxmljs2": "^0.21.7",
     "node-promise": "~0.5.14",
     "underscore": "~1.9.1",
-    "unzip2": "~0.2.5"
+    "unzipper": "^0.10.11"
   },
   "devDependencies": {
     "chai": "4.1.2",
